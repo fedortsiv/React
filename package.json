@@ -1,0 +1,14 @@
+{
+  "name": "redux",
+  "version": "1.0.0",
+  "description": "Redux",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Maxim Patsianskiy",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.13.4"
+  }
+}
